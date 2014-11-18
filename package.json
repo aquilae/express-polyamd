@@ -1,0 +1,8 @@
+{
+    "name": "express-polyamd",
+    "description": "Polymorphic AMD framework for Express.JS",
+    "main": "lib/main.coffee",
+    "dependencies": {
+        "express": "*"
+    }
+}
